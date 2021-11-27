@@ -1,0 +1,5 @@
+Credentials cache: API:A9464703-5F6D-493B-9937-809004B02B8A
+        Principal: daekim@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Oct 12 18:47:35 2020  Oct 13 04:47:30 2020  FPIA   krbtgt/42SEOUL.KR@42SEOUL.KR
